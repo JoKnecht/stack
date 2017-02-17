@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="30" Y="32"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="stack.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="77" Y="58"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="stack.pas"/>
+        <Caret Line="63" Column="3" TopLine="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="stack.pas"/>
+        <Caret Line="7" Column="22"/>
+      </Position2>
+      <Position3>
+        <Filename Value="stack.pas"/>
+        <Caret Line="12" Column="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="stack.pas"/>
+        <Caret Line="7" Column="39"/>
+      </Position4>
+      <Position5>
+        <Filename Value="stack.pas"/>
+        <Caret Line="18"/>
+      </Position5>
+      <Position6>
+        <Filename Value="stack.pas"/>
+        <Caret Line="24" Column="7"/>
+      </Position6>
+      <Position7>
+        <Filename Value="stack.pas"/>
+        <Caret Line="45" Column="8" TopLine="15"/>
+      </Position7>
+      <Position8>
+        <Filename Value="stack.pas"/>
+        <Caret Line="26" Column="29" TopLine="17"/>
+      </Position8>
+      <Position9>
+        <Filename Value="stack.pas"/>
+        <Caret Line="16" Column="55"/>
+      </Position9>
+      <Position10>
+        <Filename Value="stack.pas"/>
+        <Caret Line="41" Column="56"/>
+      </Position10>
+      <Position11>
+        <Filename Value="stack.pas"/>
+        <Caret Line="22" Column="39"/>
+      </Position11>
+      <Position12>
+        <Filename Value="stack.pas"/>
+        <Caret Line="26" Column="13" TopLine="3"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
